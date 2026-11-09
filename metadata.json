@@ -1,0 +1,6 @@
+{
+  "name": "Arton",
+  "description": "Fast, privacy-focused modern Android browser with ad-blocker, biometric vault, developer inspect element, WHMCS sync, screen recorder, and tab management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
